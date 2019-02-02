@@ -1,0 +1,24 @@
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu\r\bin\Debug\r.exe.config
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu\r\bin\Debug\r.exe
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu\r\bin\Debug\r.pdb
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu\r\bin\Debug\MetroFramework.Design.dll
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu\r\bin\Debug\MetroFramework.dll
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu\r\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu\r\obj\Debug\r.Form1.resources
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu\r\obj\Debug\r.PopUpForm.resources
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu\r\obj\Debug\r.Properties.Resources.resources
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu\r\obj\Debug\r.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu\r\obj\Debug\r.exe
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu\r\obj\Debug\r.pdb
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu - Copy\r\bin\Debug\r.exe.config
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu - Copy\r\obj\Debug\r.exe
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu - Copy\r\obj\Debug\r.pdb
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu - Copy\r\bin\Debug\r.exe
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu - Copy\r\bin\Debug\r.pdb
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu - Copy\r\bin\Debug\MetroFramework.Design.dll
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu - Copy\r\bin\Debug\MetroFramework.dll
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu - Copy\r\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu - Copy\r\obj\Debug\r.Form1.resources
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu - Copy\r\obj\Debug\r.PopUpForm.resources
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu - Copy\r\obj\Debug\r.Properties.Resources.resources
+C:\Users\Asus\Desktop\SuMetroFrameworkDizainu - Copy\r\obj\Debug\r.csproj.GenerateResource.Cache

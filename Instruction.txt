@@ -1,0 +1,16 @@
+Instruction:
+
+
+1) install application;
+
+2) start it;
+
+3) set message;
+
+4) don't close application completely;
+
+4) reboot computer;
+
+5) set message again.
+
+P.s, never ever close application completely if you don't wan to lose your settings !
